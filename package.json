@@ -1,0 +1,15 @@
+{
+  "name": "csv-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "csv": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J.J. Idt",
+  "license": "ISC"
+}
